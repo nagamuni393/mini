@@ -1,2 +1,3 @@
 # mini
-mini projects
+mini projects elements
+
